@@ -1,4 +1,7 @@
-/* IP Address to whitelist in external system for Cloud page  */
+/* 
+|* For webservice.exacttarget.com as part of Marketing Cloud 
+|* IP Address to whitelist in external system for Cloud page  
+*/
 
 Whitelist
 --------------
